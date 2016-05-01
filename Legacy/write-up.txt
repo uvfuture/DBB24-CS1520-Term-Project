@@ -1,0 +1,16 @@
+Q: What did you change/enhance from part 1?
+
+A: Honestly, not enough. I added the JS script which creates the content for one of the sections. I added more styling to the text in the Gaming and CS sections because they were difficult to read on the background images. I really want to add
+more JS/JQuery but am having difficulty identifying appropriate relevent events that would need to make changes. We went over quite a few in the examples, like timeout, mouseover, submit, etc ... but aside from submit I'm not sure there are really cases for those.
+
+Q: If there was a third part to the class project, what would you like to implement?
+
+A: Originally there was an additional section relating to my service in the military, so I'd like to add that. Content in the CS section needs to be beefed up, edited, and styled. I'd probably switch the contact form to be e-mail based, and avoid the whole local DB issue. Aside from that, I guess my third part focus would be to turn it into an actual world-facing site which would require some text re-writing and general flow editing as I think it's very disjointed at the moment. Right now, it loads slowly as well because the background images (which I thought would help create the "feel" of those particular sections -- blech) are pulled from other places on the net rather than a local server.
+
+Q: What did you learn between Part 1 and Part 2?
+
+A: I'm not 100% sure if this is asking what I learned in total, as a sum of Part 1 and Part 2 ... but that's what I'll answer. I learned a lot! I'd never really done any web-based coding before, so this class was all new. I learned that the DOM really appeals to my OCD-esque feelings relating to code style. Everything gets labeled, everything fits inside something else, it's very tidy but can get really deep, and I like that. I learned that a web page can't be built by an amateur in a week. I learned that while a pain in the ass, CSS is really powerful, and that I should put a lot of thought into how I want the page constructed, a la the DOM, so that elements can be labeled and styled in consistent ways. I learned JS/JQuery entirely in this class, and never knew how powerful it was, or how it could be used for nearly infinite things.
+
+Q: What did you like about this project? How could it have been better?
+
+A: Even though my output was unsatisfactory, this is probably my favorite project I've worked on at Pitt. I liked that we could apply things that we were learning in class incrementally to something of our own design. No fake-forced requirements to teach theory, just go explore and code and learn the languages through trial, error, and research. I think it would have been a lot better for me if I had just communicated with you more, gotten your ideas and your eyes on the code. Just more direction, otherwise I loved the project and wouldn't really want it to change.
