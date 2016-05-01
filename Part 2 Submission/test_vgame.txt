@@ -1,0 +1,4 @@
+World of Warcraft|X|X|X|X
+Burning Crusade|_|X|X|X
+Diablo II|_|X|X|X
+Lord of Destruction|_|X|X|X

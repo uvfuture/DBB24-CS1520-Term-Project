@@ -1,0 +1,6 @@
+Magic:The Gathering|X|X|X|X
+Vs System|_|X|X|X
+World of Warcraft TCG|_|X|X|X
+Decipher's Star Wars CCG|_|X|X|X
+Raw Deal|_|_|X|X|
+UFS|X|X|X|X
